@@ -9,7 +9,7 @@ public class Main {
 
         int n = sc.nextInt();
         double[] vector = new double[n];
-
+     
         for (int i=0; i<n; i++) {
             System.out.println("Digite um valor: ");
             vector[i] = sc.nextDouble();

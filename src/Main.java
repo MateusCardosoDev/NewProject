@@ -11,7 +11,7 @@ public class Main {
         double[] vector = new double[n];
      
         for (int i=0; i<n; i++) {
-            System.out.println("Digite um valor: ");
+            System.out.println("Digiite um valor: ");
             vector[i] = sc.nextDouble();
         }
     }
